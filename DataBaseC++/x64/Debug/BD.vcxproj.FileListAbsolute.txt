@@ -1,0 +1,4 @@
+Z:\2022_1ИСб-01-1оп-22\Сафиуллин Марсель\_БД\BD\x64\Debug\BD.vcxproj.AssemblyReference.cache
+Z:\2022_1ИСб-01-1оп-22\Сафиуллин Марсель\_БД\BD\x64\Debug\BD.exe
+Z:\2022_1ИСб-01-1оп-22\Сафиуллин Марсель\_БД\BD\x64\Debug\BD.MyForm.resources
+Z:\2022_1ИСб-01-1оп-22\Сафиуллин Марсель\_БД\BD\x64\Debug\BD.vcxproj.GenerateResource.cache
