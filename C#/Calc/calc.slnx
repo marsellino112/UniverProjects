@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="calc/calc.csproj" Id="fdda0217-245b-4bd9-88dc-2b6a72e2dc18" />
+  <Project Path="UnitTestProject1/UnitTestProject1.csproj" Id="bd86e456-e734-402d-986b-5cba698cc2c3" />
+</Solution>
